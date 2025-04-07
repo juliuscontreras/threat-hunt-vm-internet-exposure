@@ -20,7 +20,10 @@ Identify misconfigured virtual machines in a shared services cluster that were u
 ### 3. Data Analysis
 - Investigated:
   - High volume of failed logins
+![image](https://github.com/user-attachments/assets/3b2c0891-1cf3-4e82-9360-54237eefd97f)
+
   - Correlation between failed and successful attempts
+![image](https://github.com/user-attachments/assets/916598b4-4d7f-4728-8f89-2b4f7e75226a)
 
 ### 4. Investigation
 - Mapped findings to MITRE ATT&CK framework
