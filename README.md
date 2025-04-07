@@ -44,9 +44,10 @@ Identify misconfigured virtual machines in a shared services cluster that were u
 
 | Folder | Description |
 |--------|-------------|
-| `queries/` | KQL scripts used during the hunt |
-| `findings/` | Timeline and conclusions |
-| `documentation/` | Response actions and TTP mapping |
+| [queries/](queries) | KQL scripts used during the hunt |
+| [findings/](findings) | Timeline and conclusions |
+| [documentation/](documentation) | Response actions and TTP mapping |
+
 
 ---
 
