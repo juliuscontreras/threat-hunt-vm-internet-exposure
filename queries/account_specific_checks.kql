@@ -1,0 +1,6 @@
+DeviceLogonEvents
+| where DeviceName == "windows-target-1"
+| where LogonType == "Network"
+| where ActionType == "LogonSuccess"
+| where AccountName == "labuser"
+| summarize logincount = count() by DeviceName, ActionType, AccountName, RemoteIP
