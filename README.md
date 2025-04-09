@@ -23,7 +23,8 @@ Identify misconfigured virtual machines in a shared services cluster that were u
 
 ![image](https://github.com/user-attachments/assets/3b2c0891-1cf3-4e82-9360-54237eefd97f)
 
-  - Correlation between failed and successful attempts
+  - Correlation between failed and successful attempts.
+  - All were normal.
 
 ![image](https://github.com/user-attachments/assets/916598b4-4d7f-4728-8f89-2b4f7e75226a)
 
