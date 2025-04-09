@@ -36,9 +36,9 @@ Identify misconfigured virtual machines in a shared services cluster that were u
 - MFA and lockout policies implemented
 
 ### 6. Documentation
-- Findings saved in `/findings/`
-- Queries used are in `/queries/`
-- MITRE and Response documentation available
+- Findings saved in `[queries](queries)`
+- Queries used are in `[findings](findings)`
+- MITRE and Response `[documentation](documentation)` available
 
 ### 7. Improvement
 - Identified lack of lockout policy and monitoring as improvement areas.
@@ -49,9 +49,9 @@ Identify misconfigured virtual machines in a shared services cluster that were u
 
 | Folder | Description |
 |--------|-------------|
-| [queries/](queries) | KQL scripts used during the hunt |
-| [findings/](findings) | Timeline and conclusions |
-| [documentation/](documentation) | Response actions and TTP mapping |
+| [queries](queries) | KQL scripts used during the hunt |
+| [findings](findings) | Timeline and conclusions |
+| [documentation](documentation) | Response actions and TTP mapping |
 
 
 ---
